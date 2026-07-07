@@ -108,6 +108,7 @@ logs/app.log
 
 ##  Screenshots
 <img width="1920" height="1080" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/39d07aa7-a4d9-4474-a260-829ef0f1bbad" />
+<img width="1920" height="1080" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/19a98e88-fd3c-4093-82c7-b8714a20fc84" />
 
 
 ---
