@@ -1,0 +1,6 @@
+2026-07-06 19:24:08,969 - INFO - Application Started
+2026-07-06 19:26:21,158 - INFO - Application Started
+2026-07-06 19:26:43,263 - INFO - Reading audio file: audio\projectcodec1.wav
+2026-07-06 19:26:43,325 - INFO - Audio successfully loaded.
+2026-07-06 19:26:46,436 - INFO - Speech converted successfully.
+2026-07-06 19:26:46,442 - INFO - Transcript saved as output/transcript_20260706_192646.txt
