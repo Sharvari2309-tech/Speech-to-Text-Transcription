@@ -1,10 +1,10 @@
-# 🎙️ Speech-to-Text Transcription
+#  Speech-to-Text Transcription
 
 A Python application that converts spoken audio into text using the SpeechRecognition library.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Convert `.wav` audio files to text
 - Automatic audio file detection
@@ -17,7 +17,7 @@ A Python application that converts spoken audio into text using the SpeechRecogn
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Speech-to-Text/
@@ -38,7 +38,7 @@ Speech-to-Text/
 
 ---
 
-## 📦 Libraries Used
+##  Libraries Used
 
 - SpeechRecognition
 - os
@@ -48,7 +48,7 @@ Speech-to-Text/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 Clone the repository.
 
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Project
+##  Run the Project
 
 ```bash
 python app.py
@@ -68,7 +68,7 @@ python app.py
 
 ---
 
-## 📊 Output
+##  Output
 
 The program will
 
@@ -80,7 +80,7 @@ The program will
 
 ---
 
-## 📁 Output Files
+##  Output Files
 
 Transcript files are automatically saved inside
 
@@ -96,7 +96,7 @@ transcript_20260706_151520.txt
 
 ---
 
-## 📜 Log File
+##  Log File
 
 Application logs are stored inside
 
@@ -106,13 +106,13 @@ logs/app.log
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
+<img width="1920" height="1080" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/39d07aa7-a4d9-4474-a260-829ef0f1bbad" />
 
-(Add screenshots here after running the project.)
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Microphone support
 - GUI using Streamlit or Tkinter
@@ -122,6 +122,6 @@ logs/app.log
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Sharvari Marathe
